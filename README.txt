@@ -1,0 +1,1 @@
+V6 ön sürüm. GitHub ana dizinine index.html, intelligence.js, manifest.webmanifest, sw.js, ikonlar ve api/news.js yükleyin. Vercel otomatik dağıtım. Supabase değişikliği yok. Haber RSS uç noktası canlı test edilmedi. Whale Radar ve Cloud Alerts henüz entegre değil; V5 yerel alarm korunur. PWA mevcut kurulum desteğini korur, çevrimdışı çalışma ve push yok.
